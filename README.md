@@ -1,4 +1,4 @@
-### Hi there 👋 I'm FlyBirdQAQ , Back-end developer noobs
+### Hi there 👋 I'm FlyBirdQAQ , Back-end developer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flybirdQAQ)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flybirdQAQ)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **flybirdQAQ/flybirdQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
