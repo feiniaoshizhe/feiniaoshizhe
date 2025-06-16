@@ -9,7 +9,28 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flybirdQAQ)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Technologies I use:
+
+### Coding
+
+### Database
+
+### CI/CD
+
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
+  <img alt="Mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
+  <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="25px" />
+  <img alt="Mysql" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" height="25px"/>
+</p>
+
+## 📊 My GitHub Data:
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=feiniaoshizhe&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feiniaoshizhe&" alt="soumyajit" />
+</div>
 
 <!--
 **flybirdQAQ/flybirdQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
